@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import '../styles/about.css';
-//import '../styles/slider.css';
-//import '../styles/services.css';
 
 const About = () => {
   const [counter, setCounter] = useState(0);
