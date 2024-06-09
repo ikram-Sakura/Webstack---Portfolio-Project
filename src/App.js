@@ -1,4 +1,3 @@
-// App.js
 import React, { useState } from 'react';
 import { Route, Routes, Navigate } from 'react-router-dom';
 import Header from './components/Header';
