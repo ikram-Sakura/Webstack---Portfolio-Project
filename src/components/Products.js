@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
-import '../styles/products.css'; // Ensure this path matches your directory structure
-
+import '../styles/products.css';
 const menuItems = [ 
   { 
     imgSrc: '/img/images (6).jpeg', 
